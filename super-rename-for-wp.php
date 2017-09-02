@@ -13,9 +13,9 @@
  * @package           Super_Rename_For_Wp
  *
  * @wordpress-plugin
- * Plugin Name:       Super WP Rename 
+ * Plugin Name:       Super Rename for WP
  * Plugin URI:        http://magneticmule.com/wprename
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       Super Rename for WP allow you to easily rename slugs, user roles and menu items.
  * Version:           1.0.0
  * Author:            Thomas Sweeney
  * Author URI:        http://magneticmule.com
